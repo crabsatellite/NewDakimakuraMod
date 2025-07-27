@@ -1,6 +1,6 @@
 ## 🧩 DakimakuraMod: Newer Version Compatibility Edition
 
-> ✨ **Upgraded and maintained by [CrabMods](https://github.com/crabsatellite)**  
+> ✨ **Upgraded and maintained by [CrabMods](https://www.curseforge.com/members/crabmods/projects)**  
 > 🔧 Based on the original mod by [andrew0030](https://github.com/andrew0030/DakimakuraMod)
 
 ---
@@ -30,7 +30,7 @@ All original rights are retained by the original author. This fork is created so
 ### 🔍 Attribution Summary
 
 - **Original Author**: [andrew0030](https://github.com/andrew0030)
-- **Current Maintainer**: [CrabMods](https://github.com/crabsatellite)
+- **Current Maintainer**: [CrabMods](https://www.curseforge.com/members/crabmods/projects)
 - **License**: [GNU LGPL v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
 All derivative work is respectfully attributed, with the sole intention of ensuring future compatibility, performance, and preservation of modding culture.
