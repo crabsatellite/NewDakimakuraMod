@@ -1,0 +1,20 @@
+{
+  "_comment1": "Grup Item",
+  "itemGroup.dakimakuramod.tab": "Mod Dakimakura",
+
+  "_comment2": "Blok",
+  "block.dakimakuramod.dakimakura": "Dakimakura",
+
+  "_comment3": "Item",
+  "item.dakimakuramod.dakimakura_design": "Desain Dakimakura",
+
+  "_comment4": "Tooltip",
+  "tooltip.dakimakuramod.dakimakura": "§7Teman untuk dipeluk!",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7Kosong",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7Berjongkok dan §aklik kanan§7 di udara untuk membalik.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7Paket: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7Nama: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7Craft desain ini dengan Dakimakura kosong.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§aKlik kanan§7 item ini untuk%nmbuka kunci desain Dakimakura."
+}

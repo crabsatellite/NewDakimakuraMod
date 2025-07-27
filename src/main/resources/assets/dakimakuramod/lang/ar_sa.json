@@ -1,0 +1,20 @@
+{
+  "_comment1": "مجموعات العناصر",
+  "itemGroup.dakimakuramod.tab": "تعديل الداكيماكورا",
+
+  "_comment2": "الكتل",
+  "block.dakimakuramod.dakimakura": "داكيماكورا",
+
+  "_comment3": "العناصر",
+  "item.dakimakuramod.dakimakura_design": "تصميم الداكيماكورا",
+
+  "_comment4": "التلميحات",
+  "tooltip.dakimakuramod.dakimakura": "§7صديق للعناق!",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7فارغ",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7اجلس و §aانقر بالزر الأيمن§7 في الهواء للقلب.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7الحزمة: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7الاسم: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7اصنع هذا التصميم مع داكيماكورا فارغة.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§aانقر بالزر الأيمن§7 على هذا العنصر لـ%nفتح تصميم الداكيماكورا."
+}

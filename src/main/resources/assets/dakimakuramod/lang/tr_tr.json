@@ -1,0 +1,20 @@
+{
+  "_comment1": "Eşya Grupları",
+  "itemGroup.dakimakuramod.tab": "Dakimakura Modu",
+
+  "_comment2": "Bloklar",
+  "block.dakimakuramod.dakimakura": "Dakimakura",
+
+  "_comment3": "Eşyalar",
+  "item.dakimakuramod.dakimakura_design": "Dakimakura Tasarımı",
+
+  "_comment4": "Açıklamalar",
+  "tooltip.dakimakuramod.dakimakura": "§7Sarılacak bir arkadaş!",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7Boş",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7Çömel ve havada §asağ tıkla§7 çevirmek için.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7Paket: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7İsim: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7Bu tasarımı boş Dakimakura ile işle.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§aSağ tıkla§7 bu eşyaya%nDakimakura tasarımını açmak için."
+}

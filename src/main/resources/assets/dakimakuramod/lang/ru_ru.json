@@ -1,0 +1,20 @@
+{
+  "_comment1": "Группы предметов",
+  "itemGroup.dakimakuramod.tab": "Мод Дакимакура",
+
+  "_comment2": "Блоки",
+  "block.dakimakuramod.dakimakura": "Дакимакура",
+
+  "_comment3": "Предметы",
+  "item.dakimakuramod.dakimakura_design": "Дизайн Дакимакуры",
+
+  "_comment4": "Подсказки",
+  "tooltip.dakimakuramod.dakimakura": "§7Друг для объятий!",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7Пустая",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7Присядьте и §aщёлкните правой кнопкой§7 в воздухе, чтобы перевернуть.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7Пакет: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7Имя: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7Скрафтите этот дизайн с пустой Дакимакурой.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§aЩёлкните правой кнопкой§7 по этому предмету, чтобы%nразблокировать дизайн Дакимакуры."
+}

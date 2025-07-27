@@ -1,0 +1,20 @@
+{
+  "_comment1": "Nhóm vật phẩm",
+  "itemGroup.dakimakuramod.tab": "Mod Dakimakura",
+
+  "_comment2": "Khối",
+  "block.dakimakuramod.dakimakura": "Dakimakura",
+
+  "_comment3": "Vật phẩm",
+  "item.dakimakuramod.dakimakura_design": "Thiết kế Dakimakura",
+
+  "_comment4": "Mô tả",
+  "tooltip.dakimakuramod.dakimakura": "§7Một người bạn để ôm!",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7Trống",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7Cúi xuống và §anhấp chuột phải§7 trong không khí để lật.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7Gói: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7Tên: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7Chế tạo thiết kế này với Dakimakura trống.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§aNhấp chuột phải§7 vào vật phẩm này để%nmở khóa thiết kế Dakimakura."
+}

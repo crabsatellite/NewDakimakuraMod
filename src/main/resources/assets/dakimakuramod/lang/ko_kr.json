@@ -1,0 +1,21 @@
+{
+  "_comment1": "아이템 그룹",
+  "itemGroup.dakimakuramod.tab": "다키마쿠라 모드",
+
+  "_comment2": "블록",
+  "block.dakimakuramod.dakimakura": "다키마쿠라",
+
+  "_comment3": "아이템",
+  "item.dakimakuramod.dakimakura_design": "다키마쿠라 디자인",
+
+  "_comment4": "툴팁",
+  "tooltip.dakimakuramod.dakimakura": "§7안아줄 수 있는 친구!",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7빈칸",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7웅크리고 §a우클릭§7으로 뒤집기.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7팩: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7이름: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7이 디자인을 빈 다키마쿠라와 조합하세요.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§a우클릭§7으로%n다키마쿠라 디자인을 잠금 해제."
+}
+

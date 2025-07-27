@@ -1,0 +1,21 @@
+{
+  "_comment1": "Groupes d'objets",
+  "itemGroup.dakimakuramod.tab": "Mod Dakimakura",
+
+  "_comment2": "Blocs",
+  "block.dakimakuramod.dakimakura": "Dakimakura",
+
+  "_comment3": "Objets",
+  "item.dakimakuramod.dakimakura_design": "Design Dakimakura",
+
+  "_comment4": "Infobulles",
+  "tooltip.dakimakuramod.dakimakura": "§7Un ami à câliner !",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7Vide",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7Accroupissez-vous et §aCliquez droit§7 dans l'air pour retourner.",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7Pack : §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7Nom : §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7Fabriquez ce design avec un Dakimakura vierge.",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§aCliquez droit§7 sur cet objet pour%nDébloquer un design Dakimakura."
+}
+

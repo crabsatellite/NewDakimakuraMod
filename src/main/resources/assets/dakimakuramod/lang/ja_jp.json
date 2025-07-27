@@ -1,0 +1,21 @@
+{
+  "_comment1": "アイテムグループ",
+  "itemGroup.dakimakuramod.tab": "抱き枕MOD",
+
+  "_comment2": "ブロック",
+  "block.dakimakuramod.dakimakura": "抱き枕",
+
+  "_comment3": "アイテム",
+  "item.dakimakuramod.dakimakura_design": "抱き枕デザイン",
+
+  "_comment4": "ツールチップ",
+  "tooltip.dakimakuramod.dakimakura": "§7抱きしめられる友達！",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7空白",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7スニークして§a右クリック§7で裏返す。",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7パック: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7名前: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7このデザインを空白の抱き枕とクラフトしてください。",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§a右クリック§7で%n抱き枕デザインをアンロック。"
+}
+

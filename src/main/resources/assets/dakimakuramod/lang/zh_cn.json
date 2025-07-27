@@ -1,0 +1,21 @@
+{
+  "_comment1": "物品组",
+  "itemGroup.dakimakuramod.tab": "抱枕模组",
+
+  "_comment2": "方块",
+  "block.dakimakuramod.dakimakura": "抱枕",
+
+  "_comment3": "物品",
+  "item.dakimakuramod.dakimakura_design": "抱枕设计图",
+
+  "_comment4": "提示信息",
+  "tooltip.dakimakuramod.dakimakura": "§7一个可以拥抱的朋友！",
+  "tooltip.dakimakuramod.dakimakura.blank": "§7空白",
+  "tooltip.dakimakuramod.dakimakura.flip": "§7潜行并在空中§a右键§7以翻面。",
+  "tooltip.dakimakuramod.dakimakura.pack": "§7包裹: §f%s§7 - (%d/%d)",
+  "tooltip.dakimakuramod.dakimakura.name": "§7名称: §f%s",
+  "tooltip.dakimakuramod.dakimakura.flavour": "§5§o%s",
+  "tooltip.dakimakuramod.dakimakura_design.usage": "§7将此设计与空白抱枕合成。",
+  "tooltip.dakimakuramod.dakimakura_design.unlock": "§a右键§7此物品以%n解锁一个抱枕设计。"
+}
+
