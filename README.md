@@ -1,3 +1,8 @@
+
+<img width="1280" height="720" alt="2018-08-23_13 (2)" src="https://github.com/user-attachments/assets/fb7305ff-a478-4d31-93a9-c5e213bd1d16" />
+<img width="1280" height="720" alt="2018-08-23_13 (1)" src="https://github.com/user-attachments/assets/bbdcb6ee-991c-407a-ac37-378526c164ec" />
+<img width="1280" height="720" alt="2018-08-23_13" src="https://github.com/user-attachments/assets/ee5d5beb-2eb4-49c4-a650-6e65e745fa2b" />
+
 ## 🧩 DakimakuraMod: Newer Version Compatibility Edition
 
 > ✨ **Upgraded and maintained by [CrabMods](https://www.curseforge.com/members/crabmods/projects)**  
