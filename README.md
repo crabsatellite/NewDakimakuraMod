@@ -1,7 +1,8 @@
 ## 🧩 DakimakuraMod: Newer Version Compatibility Edition
 
 > ✨ **Upgraded and maintained by [CrabMods](https://www.curseforge.com/members/crabmods/projects)**  
-> 🔧 **Upgraded Version GitHub Repository**: [NewDakimakuraMod](https://github.com/crabsatellite/NewDakimakuraMod)
+> 🔗 **Upgraded Version GitHub Repository: [NewDakimakuraMod](https://github.com/crabsatellite/NewDakimakuraMod)** 
+
 > 🔧 Based on the original mod by [andrew0030](https://github.com/andrew0030/DakimakuraMod)
 
 ---
